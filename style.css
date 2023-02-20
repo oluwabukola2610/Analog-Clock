@@ -11,8 +11,8 @@ body {
     background: linear-gradient(115deg, rgb(0, 0, 0) 5.8%, rgb(178, 14, 14) 112.6%);}
 .clock
 {
-width: 450px;
-height: 450px;
+width: 400px;
+height: 400px;
 display: flex;
 justify-content: center;
 align-items: center;
